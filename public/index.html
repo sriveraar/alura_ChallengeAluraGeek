@@ -22,16 +22,13 @@
         <div class="contenedor">
             <!-- Sección Agregar Producto -->
             <section class="agregar_producto">
-                <h1>Agregar Producto:</h1>
+                <h1>Agregar Libro:</h1>
                 <form class="formulario" id="formProducto">
                     <div class="agregar_producto_formulario">
                         <input class="datos_ingreso" type="text" id="tituloInput" placeholder="Título..." required>
                         <input class="datos_ingreso" type="text" id="autorInput" placeholder="Autor..." required>
                         <input class="datos_ingreso" type="number" id="precioInput" placeholder="Precio..." required>
-                        <div class="file-input-wrapper">
-                            <input class="datos_ingreso" type="file" id="imagenInput" accept="image/*" required>
-                            <input class="datos_ingreso" type="url" id="imagenUrlInput" placeholder="URL de la imagen..." required>
-                        </div>
+                        <input class="datos_ingreso" type="url" id="imagenUrlInput" placeholder="URL de la imagen..." required>
                     </div>
                     <div class="agregar__producto__botones">
                         <button type="submit" class="boton_enviar">Enviar</button>
@@ -43,7 +40,7 @@
             <!-- Sección de Productos -->
             <section class="mis_productos">
                 <div class="container mt-4">
-                    <h1>Mis productos:</h1>
+                    <h1>Selección de Libros:</h1>
                     <div class="row" id="librosContainer">
                         <!-- Las cards se generarán aquí -->
                     </div>

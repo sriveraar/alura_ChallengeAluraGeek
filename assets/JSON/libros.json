@@ -1,37 +1,72 @@
 [
-{
+  {
     "id": 1,
     "titulo": "El Codigo Da Vinci",
     "autor": "Dan Brown",
     "precio": 21900,
     "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/40/c2/40c288952a400135e562dbc778fd52e9.jpg"
-},
-{
+  },
+  {
     "id": 2,
     "titulo": "Después",
     "autor": "Stephen King",
     "precio": 17000,
     "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/30/fe/30fe1f93a6df3e12d2a6d897088e1d98.jpg"
-},
-{
+  },
+  {
     "id": 3,
     "titulo": "La Comunidad del Anillo",
     "autor": "J.R.R. Tolkien",
     "precio": 21990,
     "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/5b/ae/5bae36db82d1736aa092f73e8865d7ec.jpg"
-},
-{
+  },
+  {
     "id": 4,
     "titulo": "Ready Player One",
     "autor": "Ernest Cline",
     "precio": 23970,
     "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/09/10/091091280f48f372f3eb5d7554fc16ec.jpg"
-},
-{
+  },
+  {
     "id": 5,
     "titulo": "Una vida en el Cosmos",
     "autor": "Carl Sagan",
     "precio": 53000,
     "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/69/58/695867f0d5f4e73fd5163fdc201c3c4f.jpg"
-}
+  },
+  {
+    "id": 1731769346443,
+    "titulo": "Ready Player Two",
+    "autor": "Ernest Cline",
+    "precio": "18000",
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/25/4c/254cd54a0b552abcbd791fe6ecf630d0.jpg"
+  },
+  {
+    "id": 1731769419580,
+    "titulo": "Inferno",
+    "autor": "Dan Brown",
+    "precio": "8750",
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/1e/ca/1ecad66bd9d0ae39b2f5690dee74e9c8.jpg"
+  },
+  {
+    "id": 1731769583970,
+    "titulo": "Jurassic Park",
+    "autor": "Michael Crichton",
+    "precio": "31490",
+    "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/28/55/28553533d8503c62793e6519e92019d7.jpg"
+  },
+  {
+    "id": 1731769767610,
+    "titulo": "Siega",
+    "autor": "Neal Shusterman",
+    "precio": "36500",
+    "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/19/e3/19e353296588bdd5891c79e52753052c.jpg"
+  },
+  {
+    "id": 1731771334627,
+    "titulo": "Orígenes",
+    "autor": "Neil Degrasse Tyson",
+    "precio": "24490",
+    "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/8c/95/8c952a38678ed8b8e6b7d2ba76f9e9f0.jpg"
+  }
 ]

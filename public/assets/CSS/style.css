@@ -14,6 +14,7 @@
 html, body {
     height: 100%; /* Ocupa toda la altura*/
     margin: 0;
+    background-color: #f4f4f4 !important;
 }
 
 body{
@@ -153,12 +154,13 @@ h1 {
 /* Sección Productos */
 
 .producto {
+    position: relative;
     width: 100%; /* Ajuste automático con Bootstrap */
     border: 2px solid var(--color_fondo_azul_oscuro);
     border-radius: 20px;
     overflow: hidden;
     background-color: var(--color_fondo_blanco);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9);
     transition: transform 0.3s ease;
 }
 
@@ -272,15 +274,18 @@ footer {
         max-width: 100%;
         height: auto;
     }
+
+    .agregar_producto {
+        margin-right: 5px;
+    }
 }
 
 @media (min-width: 1200px) {
-    body{
-        background-color: silver !important;
-    }
-
     .contenedor{
         flex-direction: row-reverse;
     }
-    
+
+    .agregar_producto {
+        margin: 5px 20px 0 0;
+    }
 }
