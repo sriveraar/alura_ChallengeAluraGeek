@@ -1,0 +1,16 @@
+/root
+    /assets
+        /JSON
+            libros.json
+        /IMG
+    /public
+        index.html
+        /assets
+            /CSS
+                style.css
+            /JS
+                scipts.js
+    /node_modules
+    server.js
+    package.json
+    package-lock.json

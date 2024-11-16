@@ -1,0 +1,37 @@
+[
+{
+    "id": 1,
+    "titulo": "El Codigo Da Vinci",
+    "autor": "Dan Brown",
+    "precio": 21900,
+    "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/40/c2/40c288952a400135e562dbc778fd52e9.jpg"
+},
+{
+    "id": 2,
+    "titulo": "Después",
+    "autor": "Stephen King",
+    "precio": 17000,
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/30/fe/30fe1f93a6df3e12d2a6d897088e1d98.jpg"
+},
+{
+    "id": 3,
+    "titulo": "La Comunidad del Anillo",
+    "autor": "J.R.R. Tolkien",
+    "precio": 21990,
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/5b/ae/5bae36db82d1736aa092f73e8865d7ec.jpg"
+},
+{
+    "id": 4,
+    "titulo": "Ready Player One",
+    "autor": "Ernest Cline",
+    "precio": 23970,
+    "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/09/10/091091280f48f372f3eb5d7554fc16ec.jpg"
+},
+{
+    "id": 5,
+    "titulo": "Una vida en el Cosmos",
+    "autor": "Carl Sagan",
+    "precio": 53000,
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/69/58/695867f0d5f4e73fd5163fdc201c3c4f.jpg"
+}
+]
