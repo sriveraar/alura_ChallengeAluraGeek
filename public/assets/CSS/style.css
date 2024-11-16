@@ -101,7 +101,7 @@ h1 {
 
 .datos_ingreso {
     font-size: 1.25rem;
-    width: 350px;
+    width: 320px;
     height: 58px;
     border: 3px solid var(--color_texto_azul_oscuro);
     border-radius: 25px;
@@ -121,7 +121,7 @@ h1 {
 .boton_enviar {
     background-color: var(--color_fondo_azul_oscuro);
     color: var(--color_texto_blanco);
-    width: 164px;
+    width: 150px;
     height: 55px;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
@@ -135,7 +135,7 @@ h1 {
     background-color: var(--color_fondo_blanco);
     border: 2px solid var(--color_fondo_azul_oscuro);
     color: var(--color_texto_azul_oscuro);
-    width: 164px;
+    width: 150px;
     height: 55px;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
@@ -235,15 +235,13 @@ footer {
     font-family: "Roboto", serif;
     font-size: .95rem;
     width: 100%;
-    padding: 3px 0; /* Relleno para el footer */
 }
 
 .datos_footer {
     display: flex;
     flex-direction: column;
-    padding: 5px 0;
     align-items: center;
-    margin: 0;
+    margin: 10px 0 0 0;
 }
 
 .corazon {
@@ -273,6 +271,14 @@ footer {
         padding: 0 20px;
         max-width: 100%;
         height: auto;
+    }
+
+    .mis_productos{
+        flex: 1;
+        overflow-y: auto; /* Barra de desplazamiento vertical */
+        height: calc(100vh - 100px); /* Ajusta la altura según el tamaño de la pantalla */
+        box-sizing: border-box;
+        padding-right: 10px; /* Espacio adicional para la barra de desplazamiento */
     }
 
     .agregar_producto {
